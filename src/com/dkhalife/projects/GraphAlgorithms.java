@@ -60,7 +60,7 @@ public class GraphAlgorithms {
 
 		// Show it and make it non-resizable
 		window.setVisible(true);
-		//window.setResizable(false);
+		window.setResizable(false);
 
 		// Set the default close operation
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
